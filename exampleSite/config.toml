@@ -1,4 +1,4 @@
-baseurl = "https://jom-test.netlify.com/"
+baseurl = "https://jom-test.netlify.app/"
 title = "Test website hugo"
 author = "Koen"
 googleAnalytics = ""
